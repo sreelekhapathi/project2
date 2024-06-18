@@ -1,3 +1,4 @@
+
 Linux has lot many commands
 cat
 tac
@@ -16,3 +17,7 @@ vi
 nano
 echo
 touch
+
+I am the new product file.
+This is for merge conflicts scenario
+
